@@ -2,7 +2,7 @@ package practise;
 
 import java.util.Scanner;
 
-public class NumberSplitterStream {
+public class NumberSplitterThree {
 
 	public static void main(String[] args) {
 		
