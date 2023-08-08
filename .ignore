@@ -1,4 +1,8 @@
 .class
 .git
-inputs\.settings
-inputs\.settings\*
+\*\.settings
+\*\.settings\**
+\*\bin
+\*\bin\**
+\*\bin\.classpath
+\*\bin\.project
